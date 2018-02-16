@@ -1,0 +1,141 @@
+
+body{
+  margin:0;
+}
+.main-nav{
+  height:70px;
+  width:100%;
+  background-color: #ccc;
+  position:fixed;
+}
+.logo-1{
+  height:70px;
+}
+  .nav-list{
+    float:right;
+    list-style:none;
+  }
+.nav-item{
+  float:left;
+  margin-right: 25px;
+}
+.nav-link{
+  color:black;
+    text-decoration:none;
+}
+  .bigbox{
+  height:350px;
+  border:1px;
+  width:100;
+}
+.container{
+  height:350px;
+  background-color:red;
+}
+.row{
+  float:left;
+  margin-left: 32px;
+}
+.end{
+  float:right;
+}
+/*start hero secion*/
+.hero-section{
+    height:500px;
+    background-image: url("../images/hope tree.jpg");
+    background-size: 100% 100%;
+}
+.hero-text{
+    margin-top:0px;
+    padding-top:200px;
+    color: white;
+    text-align:center;
+}
+.text-background{
+  background-color: rgba(0, 0, 0, .5);
+  padding:10px;
+}
+.column{
+  height:300px;
+  width:30%;
+  border:1px black, solid;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  color:#7FFF00;
+  background-color: blue; 
+}
+.column-image{
+  width: 50%;
+}
+.ambulance{
+  height:45%;
+}
+.main-box {
+  height: 150px;
+  width: 150px;
+}
+.main-footer{
+  height:150px;
+}
+.footer-section{
+  width:33%;
+  border-right: 1px solid 000000;
+  float:left;
+  height:100%;
+}
+
+.box {
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+
+.circle-background {
+  background-color: blue;
+  border-radius: 100%;
+}
+
+.left {
+  float: left;
+  margin-right: 5px;
+}
+
+.right {
+  float: right;
+}
+
+.clear-left {
+  clear: left;
+}
+
+.clear-right {
+  clear: right;
+}
+
+.center {
+  margin: 0 auto;
+}
+
+.center-text {
+  padding-top: 13px;
+  color:blue;
+}
+.main-footer{
+  background-color: #ccc;
+}
+.fa-ambulance{
+  color: white;
+  font-size:175%;
+}
+.fa-user-md{
+  font-size: 32px;
+  color:white;
+}
+.fa-accessible-icon{
+  font-size:35px;
+  color:white;
+}
+.fa-hospital{
+  font-size:31px;
+  color:white;
+}
